@@ -10,6 +10,9 @@ html{
 .pink{
     color:rgb(255, 192, 203) 
 }
+h1{
+    font-family: 'Josefin Sans', sans-serif; 
+}
 .google-font{
     // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 100 to 700
